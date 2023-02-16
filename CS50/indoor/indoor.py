@@ -1,0 +1,1 @@
+s = print(input().lower())
